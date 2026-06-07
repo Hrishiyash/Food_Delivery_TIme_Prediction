@@ -7,7 +7,7 @@ The project combines SQL analytics, data preprocessing, exploratory data analysi
 
 # Live Application
 
-[Food Delivery Time Prediction App](https://fooddeliverytimeprediction-1208.streamlit.app/?utm_source=chatgpt.com)
+[Food Delivery Time Prediction App](https://fooddeliverytimeprediction-1208.streamlit.app/)
 
 ---
 
@@ -278,8 +278,8 @@ Parameters optimized:
 
 The application was deployed using:
 
-* [Streamlit Community Cloud](https://streamlit.io/cloud?utm_source=chatgpt.com)
-* [GitHub](https://github.com?utm_source=chatgpt.com)
+* [Streamlit Community Cloud](https://streamlit.io/cloud)
+* [GitHub](https://github.com)
 
 The deployed app allows users to:
 
