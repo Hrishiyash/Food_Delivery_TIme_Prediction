@@ -1,7 +1,7 @@
 # Food Delivery Time Prediction using Machine Learning
 
 A complete end-to-end Machine Learning project that predicts food delivery time based on operational, environmental, and logistical factors.
-The project combines SQL analytics, data preprocessing, exploratory data analysis, machine learning, model evaluation, hyperparameter tuning, and deployment using [Streamlit](https://streamlit.io?utm_source=chatgpt.com).
+The project combines SQL analytics, data preprocessing, exploratory data analysis, machine learning, model evaluation, hyperparameter tuning, and deployment using Streamlit.
 
 ---
 
